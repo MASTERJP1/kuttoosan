@@ -62,16 +62,16 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/Itsme-soman/KICHU-SER/fork)
+ Click [FORK](https://github.com/TOXIC-KICHU/KICHU-SER/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER copy this url and change Itsme-soman with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/TOXIC-KICHU/KICHU-SER copy this url and change TOXIC-KICHU with your github username and click go<br>
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Itsme-soman/KICHU-SER
+$ git clone https://github.com/TOXIC-KICHU/KICHU-SER
 $ cd KICHU-SER
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -80,7 +80,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsme-soman/KICHU-SER
+$ git clone https://github.com/TOXIC-KICHU/KICHU-SER
 $ cd KICHU-SER
 $ npm i
 $ node julie.js
@@ -89,16 +89,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Itsme-soman/KICHU-SER">
+  <a href="https://github.com/TOXIC-KICHU/KICHU-SER">
     
-<a href="https://github.com/Itsme-soman/followers">
-<img src="https://img.shields.io/github/repo-size/Itsme-soman/KICHU-SER?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/TOXIC-KICHU/followers">
+<img src="https://img.shields.io/github/repo-size/TOXIC-KICHU/KICHU-SER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Itsme-soman/followers"
+<a href="https://github.com/TOXIC-KICHU/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsme-soman/KICHU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TOXIC-KICHU/KICHU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOXIC-KICHU/KICHU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/TOXIC-KICHU/KICHU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXIC-KICHU/KICHU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/TOXIC-KICHU/KICHU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TOXIC-KICHU/KICHU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -112,7 +112,7 @@ Click WA logo to Join Support Group👇🏼
 
 <a href="https://chat.whatsapp.com/FkUTQZLhA0r2VuCz8XZjcC" target="blank"><img align="center" src="https://i.imgur.com/21zMdKL.png" alt="kyrie.baran" height="130" width="130" /></a>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Itsme-soman&repo=KICHU-SER&theme=nightowl)](https://github.com/Itsme-soman/KICHU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-KICHU&repo=KICHU-SER&theme=nightowl)](https://github.com/TOXIC-KICHU/KICHU-SER)
   </div>
     
 ### ⚠ Warning ⚠
@@ -135,7 +135,7 @@ you can contact 👇🏻👇🏻
 
 ## Developers
 
-[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![TOXIC DEVIL](https://i.imgur.com/TNPEKCS.jpeg?size=100)](https://github.com/TOXIC-DEVIL)
+[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/TOXIC-KICHU) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![TOXIC DEVIL](https://i.imgur.com/TNPEKCS.jpeg?size=100)](https://github.com/TOXIC-DEVIL)
 ----|----|----
 [KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali) | [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)
 Developer, Base, Bug Fixes, Modules| Bug Fixes, Modules, Commits |  Modifiying  as   public | Re-Developer, Bug Fixes, Modules 
